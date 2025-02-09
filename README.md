@@ -1,3 +1,2 @@
 Evangelion Magi system by three gpt models  
-frontend from :https://github.com/itorr/magi
-
+frontend base by :https://github.com/itorr/magi
